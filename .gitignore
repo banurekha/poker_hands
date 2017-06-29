@@ -1,0 +1,8 @@
+.bundle/
+log/*.log
+pkg/
+spec/internal
+tmp/
+tags
+.tags*
+coverage/*
