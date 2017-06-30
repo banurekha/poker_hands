@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-# Execute this script with path to the data file as the first argument.
+# Execute this script with path to the data file as the first argument to find player 1 winning.
 #
 # bundle exec ruby winning_hand.rb /path/to/data/file
 # Bonus it does parse wining for player2 as well just not print it

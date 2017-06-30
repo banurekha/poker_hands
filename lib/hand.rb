@@ -1,3 +1,4 @@
+# Parser to decode hand and find the rank. It can also compare one hand with other
 # frozen_string_literal: true
 class Hand
   include Comparable

@@ -1,3 +1,4 @@
+# Parser to decode 2 character string into valid value and suit
 # frozen_string_literal: true
 class CardParser
   def parse(card_string)
